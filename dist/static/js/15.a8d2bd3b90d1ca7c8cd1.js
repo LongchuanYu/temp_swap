@@ -1,2 +1,0 @@
-webpackJsonp([15],{AlD1:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\r\n  FollowingPosts\r\n")])},staticRenderFns:[]},r=t("VU/8")({},l,!1,null,null,null);n.default=r.exports}});
-//# sourceMappingURL=15.a8d2bd3b90d1ca7c8cd1.js.map
